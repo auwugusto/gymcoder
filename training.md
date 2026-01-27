@@ -33,10 +33,10 @@
 4. Cable Triceps Pressdown — 2–3×10–15  
 
 ### Week 1
-- [ ] Incline DB Press: ___kg × ___reps @ ___RIR  
-- [ ] Seated DB Shoulder Press: ___kg × ___reps @ ___RIR  
-- [ ] Lateral Raise: ___kg × ___reps @ ___RIR  
-- [ ] Triceps Pressdown: ___kg × ___reps @ ___RIR  
+- [x] Incline DB Press: 40kg × 5reps @ 0RIR  
+- [x] Seated DB Shoulder Press: 20kg × 6reps @ ___RIR  
+- [x] Lateral Raise: 12.5kg × 6reps @ ___RIR  
+- [x] Triceps Pressdown: 17.5kg × 6reps @ ___RIR  
 
 ### Week 2
 - same template ↓
