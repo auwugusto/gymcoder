@@ -1,133 +1,133 @@
-# 🍑 Glute-Focused Hypertrophy Program (4x / week)
+# 🍑 Programa de Hipertrofia Centrada en Glúteos (4x / semana)
 
-**Split:** Push / Pull / Legs (Glute bias)  
-**Goal:** Hypertrophy (glutes focus)  
-**Block length:** 8 weeks  
-**Notes:** Track load, reps, and RIR (reps in reserve). Aim for progressive overload.
-
----
-
-## 📌 Training Principles
-- Volume: ~14–22 hard sets/week for glutes  
-- Reps: 6–20, stop 0–3 RIR  
-- Rest: 2–3 min compounds, 60–120s isolations  
-- Frequency: Glutes 2×/week (lengthened + shortened)  
-- Progression: Double progression (add reps → add load)  
-- Deload: Every 4–5 weeks  
+**Split:** Empujar / Tirar / Piernas (Prioridad a los glúteos)
+**Objetivo:** Hipertrofia (centrada en los glúteos)
+**Duración del bloque:** 8 semanas
+**Notas:** Registra la carga, las repeticiones y el RIR (repeticiones de reserva). Busca una sobrecarga progresiva.
 
 ---
 
-# 🗓 Weekly Layout
-- **Day A:** Push  
-- **Day B:** Pull  
-- **Day C:** Lower (Glute/Quad bias – *Lengthened*)  
-- **Day D:** Lower (Glute/Hinge bias – *Shortened*)  
+## 📌 Principios de Entrenamiento
+- Volumen: ~14–22 series intensas/semana para glúteos
+- Repeticiones: 6–20, parada 0–3 RIR
+- Descanso: 2–3 min de repeticiones compuestas, 60–120 s de aislamiento
+- Frecuencia: Glúteos 2 veces/semana (alargadas + acortadas)
+- Progresión: Doble progresión (añadir repeticiones → añadir carga)
+- Descarga: Cada 4–5 semanas
 
 ---
 
-# Day A – Push
-**Exercises:**  
-1. Incline DB Press — 3×6–10  
-2. Seated DB Shoulder Press — 3×6–10  
-3. Cable Lateral Raise — 2–3×12–20  
-4. Cable Triceps Pressdown — 2–3×10–15  
-
-### Week 1
-- [x] Incline DB Press: 40kg × 5reps @ 0RIR  
-- [x] Seated DB Shoulder Press: 20kg × 6reps @ ___RIR  
-- [x] Lateral Raise: 12.5kg × 6reps @ ___RIR  
-- [x] Triceps Pressdown: 17.5kg × 6reps @ ___RIR  
-
-### Week 2
-- same template ↓
+# 🗓 Disposición Semanal
+- **Día A:** Empuje
+- **Día B:** Tirón
+- **Día C:** Inferior (Glúteos/Cuádriceps – *Alargado*)
+- **Día D:** Inferior (Glúteos/Bisagra – *Acortado*)
 
 ---
 
-# Day B – Pull
-**Exercises:**  
-1. Pull-up / Lat Pulldown — 3×6–10  
-2. Chest-supported Row — 3×8–12  
-3. Rear-Delt Cable Fly — 2–3×12–20  
-4. EZ-Bar Curl — 2–3×8–12  
+# Día A – Empuje
+**Ejercicios:**
+1. Press de banca inclinado — 3×6–10
+2. Press de hombros con mancuernas sentado — 3×6–10
+3. Elevaciones laterales con polea — 2–3×12–20
+4. Press de tríceps con polea — 2–3×10–15
 
-### Week 1
-- [ ] Pull-ups: ___kg × ___reps @ ___RIR  
-- [ ] Row: ___kg × ___reps @ ___RIR  
-- [ ] Rear-Delt Fly: ___kg × ___reps @ ___RIR  
-- [ ] Curl: ___kg × ___reps @ ___RIR  
+### Semana 1
+- [x] Press de hombros con mancuernas inclinado: 40 kg × 5 repeticiones a 0 RRI
+- [x] Press de hombros con mancuernas sentado: 20 kg × 6 repeticiones a ___ RRI
+- [x] Elevaciones laterales: 12,5 kg × 6 repeticiones a ___ RRI
+- [x] Press de tríceps: 17,5 kg × 6 repeticiones a ___ RRI
 
-### Week 2
-- repeat…
-
----
-
-# Day C – Lower (Glute/Quad Bias – *Lengthened*)  
-**Exercises:**  
-1. High-bar Back Squat (deep) — 4×6–8  
-2. Bulgarian Split Squat (long stride) — 3×8–12/leg  
-3. Romanian Deadlift — 3×6–10  
-4. 45° Hip Extension (glute bias) — 2–3×10–15  
-5. Cable/Band Hip Abduction — 2–3×12–20  
-
-### Week 1
-- [ ] Squat: ___kg × ___reps @ ___RIR  
-- [ ] Bulgarian Split: ___kg × ___reps @ ___RIR  
-- [ ] RDL: ___kg × ___reps @ ___RIR  
-- [ ] Hip Extension: ___kg × ___reps @ ___RIR  
-- [ ] Abduction: ___kg × ___reps @ ___RIR  
-
-### Week 2
-- repeat…
+### Semana 2
+- misma plantilla ↓
 
 ---
 
-# Day D – Lower (Glute/Hinge Bias – *Shortened*)  
-**Exercises:**  
-1. Barbell Hip Thrust — 4–5×6–10 (pause squeeze)  
-2. Reverse Lunge (long stride) — 3×8–12/leg  
-3. Cable Kickback — 3×12–20  
-4. Abduction Machine — 2–3×12–20  
-5. *(Optional)* Seated Leg Curl — 2–3×8–12  
+# Día B – Jalón
+**Ejercicios:**
+1. Dominadas / Jalón lateral — 3×6–10
+2. Remo con apoyo en el pecho — 3×8–12
+3. Apertura con polea para deltoides posteriores — 2–3×12–20
+4. Curl con barra EZ — 2–3×8–12
 
-### Week 1
-- [ ] Hip Thrust: ___kg × ___reps @ ___RIR  
-- [ ] Reverse Lunge: ___kg × ___reps @ ___RIR  
-- [ ] Kickback: ___kg × ___reps @ ___RIR  
-- [ ] Abduction: ___kg × ___reps @ ___RIR  
-- [ ] Seated Curl (opt.): ___kg × ___reps @ ___RIR  
+### Semana 1
+- [ ] Dominadas: ___kg × ___reps a ___IR
+- [ ] Remo: ___kg × ___reps a ___IR
+- [ ] Apertura con deltoides posteriores: ___kg × ___reps a ___IR
+- [ ] Curl: ___kg × ___reps a ___IR
 
-### Week 2
-- repeat…
+### Semana 2
+- repetir…
 
 ---
 
-# 🔄 Progression Tracker
-- ☐ Add reps until you reach the top of the range at same RIR → then increase weight 2.5–5%  
-- ☐ Add +1 set to a glute movement if recovery is good  
-- ☐ Every 4–5 weeks: **Deload** (−40–50% sets, +3 RIR)  
+# Día C – Inferior (Inclinación para glúteos/cuádriceps – *Alargado*)
+**Ejercicios:**
+1. Sentadilla trasera con barra alta (profunda) — 4×6–8
+2. Sentadilla Búlgara Split (zancada larga) — 3×8–12/pierna
+3. Peso Muerto Rumano — 3×6–10
+4. Extensión de Cadera a 45° (glúteos) — 2–3×10–15
+5. Abducción de Cadera con Polea/Banda — 2–3×12–20
+
+### Semana 1
+- [ ] Sentadilla: ___kg × ___reps a ___IR
+- [ ] Sentadilla Búlgara Split: ___kg × ___reps a ___IR
+- [ ] Peso Muerto Rumano: ___kg × ___reps a ___IR
+- [ ] Extensión de Cadera: ___kg × ___reps a ___IR
+- [ ] Abducción: ___kg × ___reps a ___IR
+
+### Semana 2
+- Repetir…
 
 ---
 
-# 🥗 Nutrition Log
-- Protein target: 1.6–2.2 g/kg  
-- Calories: slight surplus (+5–10%)  
-- Daily notes:  
-  - [ ] Calories hit?  
-  - [ ] Protein hit?  
-  - [ ] Sleep 7–9h?  
-  - [ ] Steps/movement outside gym?  
+# Día D – Inferior (Glúteos/Bisagra – *Acortado*)
+**Ejercicios:**
+1. Empuje de cadera con barra — 4–5×6–10 (pausa, apretar)
+2. Zancada inversa (zancada larga) — 3×8–12/pierna
+3. Patada hacia atrás con polea — 3×12–20
+4. Máquina de abducción — 2–3×12–20
+5. *(Opcional)* Curl de piernas sentado — 2–3×8–12
+
+### Semana 1
+- [ ] Empuje de cadera: ___kg × ___reps a ___IR
+- [ ] Zancada inversa: ___kg × ___reps a ___IR
+- [ ] Patada hacia atrás: ___kg × ___reps a ___IR
+- [ ] Abducción: ___kg × ___ repeticiones a ___ RIR
+- [ ] Curl sentado (opt.): ___kg × ___ repeticiones a ___ RIR
+
+### Semana 2
+- repetir…
 
 ---
 
-# 📈 8-Week Overview
-| Week | Bodyweight | Hip Thrust 5RM | Squat 5RM | Notes |
+# 🔄 Seguimiento de la progresión
+- ☐ Aumenta repeticiones hasta alcanzar el límite superior del rango con el mismo RIR → luego aumenta el peso entre un 2,5% y un 5%
+- ☐ Añade 1 serie más a un ejercicio de glúteos si la recuperación es buena
+- ☐ Cada 4-5 semanas: **Descarga** (−40-50% series, +3 RIR)
+
+---
+
+# 🥗 Registro nutricional
+- Objetivo de proteínas: 1,6-2,2 g/kg
+- Calorías: ligero excedente (+5-10%)
+- Notas diarias:
+- [ ] ¿Calorías consumidas?
+- [ ] ¿Proteína consumida?
+
+- [ ] ¿Dormir de 7 a 9 h?
+- [ ] ¿Pasos/movimiento fuera del gimnasio?
+
+---
+
+# 📈 Resumen de 8 semanas
+| Semana | Peso corporal | Empuje de cadera 5RM | Sentadilla 5RM | Notas |
 |------|------------|----------------|-----------|-------|
-| 1    |            |                |           |       |
-| 2    |            |                |           |       |
-| 3    |            |                |           |       |
-| 4 (Deload) |      |                |           |       |
-| 5    |            |                |           |       |
-| 6    |            |                |           |       |
-| 7    |            |                |           |       |
-| 8    |            |                |           |       |
-
+| 1 | | | | |
+| 2 | | | | |
+| 3 | | | | |
+| 4 (Descarga) | | | | |
+| 5 | | | | |
+| 6 | | | | |
+| 7 | | | | |
+| 8 | | | | |
